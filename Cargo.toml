@@ -1,0 +1,12 @@
+[package]
+name = "mathematics"
+version = "0.1.0"
+authors = ["Sarmad Gulzar <sarmadgulzar@hotmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "A mathematics library for Rust."
+readme = "README.md"
+homepage = "https://github.com/sarmadgulzar/rust-mathematics"
+repository = "https://github.com/sarmadgulzar/rust-mathematics"
+
+[dependencies]
